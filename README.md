@@ -30,6 +30,8 @@ phon: 010-533x-xxxx / E-mail: wkdgns9797@naver.com
 # ●취미
 여행 / 사진찍기
 
+<img src=인스타.JPG height=150 widht=150>
+
 
 instagram: [my_instagram][instagram]
 
