@@ -9,6 +9,7 @@ phon: 010-533x-xxxx / E-mail: wkdgns9797@naver.com
 ---
 # ●학력
 
+<img src=학교마크.jpg height=200 widht=200>
 소속 : 소프트웨어 융합대학   
 전공 : 스마트IOT
 
