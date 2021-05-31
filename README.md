@@ -1,26 +1,16 @@
-# 한림대학교 소프트웨어융합대학
+# self-introduction
+
+# ●프로필
+<img src=장훈방콕.jpg height=400 widht=400>
+생년월일: 1997년 11월 10일 (25세) / 키,몸무게: 170cm 60kg
+
+phon: 010-533x-xxxx / E-mail: wkdgns9797@naver.com
+
 ---
-<img src=장훈방콕.jpg height=150 widht=150>
-name: 장훈
-
-
-age: 25
-
----
+# ●학력
 
 소속 : 소프트웨어 융합대학   
-전공 : 빅데이터 전공
-
-관심분야   
-* 생물정보학
-* **인공지능**
-* 의료정보학
-
-프로그래밍 언어 스킬   
-1. C
-2. Java
-3. Python
-4. R
+전공 : 스마트IOT
 
 ---------------
 
