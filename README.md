@@ -28,6 +28,6 @@
 |Java 프로그래밍|java 개용|3|
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1|
 
-instargram : [my_instargram][instargram]
+instagram : [my_instagram][instagram]
 
-[instargram]:http://https://www.instagram.com/lillilililiiil/
+[instagram]:http://https://www.instagram.com/lillilililiiil/
