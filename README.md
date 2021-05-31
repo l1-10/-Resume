@@ -2,7 +2,7 @@
 ---
 <img src=장훈방콕.jpg height=150 widht=150>
 name: 장훈   
-age: 25   
+age: 25
 
 ---
 
