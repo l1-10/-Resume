@@ -1,4 +1,5 @@
 # self-introduction
+---
 
 # ●프로필
 <img src=장훈방콕.jpg height=400 widht=400>
@@ -9,19 +10,29 @@ phon: 010-533x-xxxx / E-mail: wkdgns9797@naver.com
 ---
 # ●학력
 
-<img src=학교마크.jpg height=200 widht=200>
-소속 : 소프트웨어 융합대학   
+<img src=학교마크.JPG height=200 widht=200>
+소속 : 소프트웨어 융합대학
+
+
 전공 : 스마트IOT
 
----------------
-
-2020년도 1학기 강의 과목   
+**2021년도 1학기 강의 과목**   
 |과목|내용|학점|
 |---|---|---|
-|C 프로그래밍|C 언어개요|3|
-|Java 프로그래밍|java 개용|3|
-|소프트웨어세미나1|최신 소프트웨어 트랜드|1|
+|멀티미디어개론|멀티미디어의 개념|3|
+|소프트웨어특강I|최신 소프트웨어|1|
+|데이터베이스시스템|데이터 베이스|3|
+|생활속의통계학|통계학|3|
+|소프트웨어개론|소프트웨어|3|
+
+---
+
+# ●취미
+여행 / 사진찍기
+
 
 instagram: [my_instagram][instagram]
 
 [instagram]:https://www.instagram.com/lillilililiiil/
+
+------------------------------
