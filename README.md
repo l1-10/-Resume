@@ -1,7 +1,9 @@
 # 한림대학교 소프트웨어융합대학
 ---
 <img src=장훈방콕.jpg height=150 widht=150>
-name: 장훈   
+name: 장훈
+
+
 age: 25
 
 ---
